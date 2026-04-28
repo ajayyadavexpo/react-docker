@@ -154,7 +154,7 @@ docker run -it
 
 ```bash
 git clone https://github.com/ajayyadavexpo/react-docker.git
-cd your-repo
+cd react-docker
 ```
 
 ---
