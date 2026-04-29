@@ -229,6 +229,3 @@ Feel free to fork this repo and improve it!
 
 If you found this helpful, give it a ⭐ on GitHub!
 
-
-* make it more **premium looking (like top GitHub repos)**
-* or optimize it for **your course/project selling**
